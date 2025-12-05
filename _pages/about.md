@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I’m Zhengqin Shu, a senior undergraduate student in Tsien Excellence of Engineering Program (TEEP), Tsinghua University, majoring in <strong> Theoretical and Applied Mechanics </strong> and minoring in Software Engineering. My research focuses on studying <strong> wall-bounded turbulence </strong> employing both physics-based and data-driven approaches, providing new physical insights while also improving simulation methodologies.
+Hi! I’m Zhengqin Shu, a senior undergraduate student in Tsien Excellence of Engineering Program (TEEP), Xingjian College, Tsinghua University, majoring in <strong> Theoretical and Applied Mechanics </strong> and minoring in Software Engineering. My research focuses on studying <strong> wall-bounded turbulence </strong> employing both physics-based and data-driven approaches, providing new physical insights while also improving simulation methodologies.
 
 Currently, I'm visiting Caltech and working with [Prof. H. Jane Bae](https://www.galcit.caltech.edu/people/jbae) on the analogy of tuebulent Couette-Poiseuille (C-P) Flows and adverse-pressure-gradient turbulent boundary layers (APG TBLs). Previously, I worked with [Prof. Chunxiao Xu](https://www.hy.tsinghua.edu.cn/hyen/info/1162/1209.htm) on the history effects and coherent structures of wall-bounded turbulence.
 
