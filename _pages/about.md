@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: /
+subtitle: 
 
 profile:
   align: right
@@ -30,4 +30,6 @@ Hi! I’m Zhengqin Shu, a senior undergraduate student in Tsien Excellence of En
 
 Currently, I'm visiting Caltech and working with [Prof. H. Jane Bae](https://www.galcit.caltech.edu/people/jbae) on the analogy of tuebulent Couette-Poiseuille (C-P) Flows and adverse-pressure-gradient turbulent boundary layers (APG TBLs). Previously, I worked with [Prof. Chunxiao Xu](https://www.hy.tsinghua.edu.cn/hyen/info/1162/1209.htm) on the history effects and coherent structures of wall-bounded turbulence.
 
-<span style="color: red;"> I am applying for a PhD position in 2026 Fall. </span> Feel free to drop me an email if you are interested in my research or just want to chat!
+Please refer to my CV for more academic details about me. In spare time, I am a magic enthusiast, and I also enjoy playing the guitar.
+
+<strong> I am applying for a PhD position in 2026 Fall. </strong> Feel free to drop me an email if you are interested in my research or just want to chat!
