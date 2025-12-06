@@ -38,7 +38,7 @@ ninja.data = [{
         
           title: "ICCES 2025",
         
-        description: "this is what included plotly.js code could look like",
+        description: "The first academic conference I attended.",
         section: "Posts",
         handler: () => {
           
