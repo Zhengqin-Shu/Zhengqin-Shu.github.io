@@ -181,7 +181,7 @@ ninja.data = [{
         
           title: "Tsinghua&#39;s 2024 New Year Gala",
         
-        description: "My craziest magic show,  Departure , an original 20-minute show for an audience of over 2,000.",
+        description: "My first large-scale stage show,  Spring of Ten Thousand Woods , presented to all the Class of 2023 freshmen at Tsinghua.",
         section: "Posts",
         handler: () => {
           
