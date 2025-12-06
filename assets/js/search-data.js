@@ -100,17 +100,6 @@ ninja.data = [{
             window.location.href = "/blog/2024/pseudocode/";
           
         },
-      },{id: "post-a-post-with-vega-lite",
-        
-          title: "a post with vega lite",
-        
-        description: "this is what included vega lite code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/vega-lite/";
-          
-        },
       },{id: "post-tsinghua-39-s-2024-new-year-gala",
         
           title: "Tsinghua&#39;s 2024 New Year Gala",
