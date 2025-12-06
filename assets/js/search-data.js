@@ -177,6 +177,17 @@ ninja.data = [{
             window.location.href = "/blog/2023/New-Year-Gala/";
           
         },
+      },{id: "post-tsinghua-39-s-2024-new-year-gala",
+        
+          title: "Tsinghua&#39;s 2024 New Year Gala",
+        
+        description: "My craziest magic show,  Departure , an original 20-minute show for an audience of over 2,000.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/Freshman-Welcome-Gala/";
+          
+        },
       },{id: "post-a-post-with-tikzjax",
         
           title: "a post with TikZJax",
