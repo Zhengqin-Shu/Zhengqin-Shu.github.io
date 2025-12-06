@@ -29,10 +29,10 @@ I was honored to perform my original 15-minute magic show, <strong><em> Departur
     After the show, the boarding pass was left at the exit, where the audience eagerly signed it as a keepsake, symbolizing <strong><em> Departure </em></strong> in the New Year.
 </div>
 
-I am deeply grateful to all the friends and teachers who supported me throughout the preparation and performance, including Chengzi, Cancao, Kunda, Xiu, Hongyu, Junhao, Jiawei, Sihan, Yuqian, Xiaohan, and others.
+I am deeply grateful to all the friends and teachers who supported me throughout the preparation and performance, including Cheng Zi, Cancao Guo, Kunda Liu, Xiu Zhong, Hongyu Zhu, Junhao Wang, Jiawei Zhang, Sihan Li, Yuqian Chen, Xiaohan Gong, and others.
 
 {% include figure.liquid loading="eager" path="assets/img/New7.jpg" class="img-fluid rounded z-depth-1 mt-3" %}
 <div class="caption">
-    My sincere thanks to all the staff members involved in the show.
+    My sincere thanks to all the staff members involved in the show!
 </div>
 
