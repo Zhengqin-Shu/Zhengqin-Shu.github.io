@@ -174,7 +174,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/formatting-and-links/";
+            window.location.href = "/blog/2023/New-Year-Gala/";
           
         },
       },{id: "post-a-post-with-tikzjax",
