@@ -67,17 +67,6 @@ ninja.data = [{
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
           
         },
-      },{id: "post-a-post-with-tabs",
-        
-          title: "a post with tabs",
-        
-        description: "this is what included tabs in a post could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/tabs/";
-          
-        },
       },{id: "post-a-post-with-typograms",
         
           title: "a post with typograms",
@@ -175,6 +164,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2023/New-Year-Gala/";
+          
+        },
+      },{id: "post-the-5th-tsinghua-university-magic-gala-lt-em-gt-into-the-wondrous-way-lt-em-gt",
+        
+          title: "The 5th Tsinghua University Magic Gala &lt;em&gt; Into the Wondrous Way &lt;/em&gt;",
+        
+        description: "My first director experience",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/5-Magic-Gala/";
           
         },
       },{id: "post-tsinghua-39-s-2023-freshman-welcome-gala",
