@@ -2,35 +2,12 @@
 layout: post
 title: Tsinghua's 2024 New Year Gala
 date: 2023-12-31 
-description: My craziest magic show, <strong><em> Departure </em></strong>, original 20-minute show for an audience of over 2,000.
+description: My craziest magic show, <strong><em> Departure </em></strong>, an original 20-minute show for an audience of over 2,000.
 tags: Magic
-categories: Magic
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. [Pinterest](https://www.pinterest.com) DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+I was honored to perform my original 20-minute magic show, <strong><em> Departure </em></strong>, at Tsinghua’s 2024 New Year Gala, in front of an audience of over 2,000. In the show, I invited a random audience member on stage and asked them to name their ideal travel destination, and on the giant “prediction” boarding pass at center stage, their name and chosen destination were already printed there!
 
-#### Hipster list
+I am deeply grateful to all the friends and teachers who supported me throughout the preparation and performance, including Chengzi, Cancao, Kunda, Junhao, Jiawei, Sihan, Xiaohan, and others.
 
-- brunch
-- fixie
-- raybans
-- messenger bag
-
-#### Check List
-
-- [x] Brush Teeth
-- [ ] Put on socks
-  - [x] Put on left sock
-  - [ ] Put on right sock
-- [x] Go to school
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
-<hr>
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Click [here](https://www.bilibili.com/video/BV1PZ421U7b8/?spm_id_from=333.1387.homepage.video_card.click) for the full performance video.
