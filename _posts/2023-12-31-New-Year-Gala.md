@@ -21,7 +21,7 @@ I was honored to perform my original 15-minute magic show, <strong><em> Departur
 
 {% include figure.liquid loading="eager" path="assets/img/New3.jpg" class="img-fluid rounded z-depth-1 mt-3" %}
 <div class="caption">
-    On the giant boarding pass were written the volunteer's name and chosen destination.
+    On the giant boarding pass were printed the volunteer's name and the chosen destination.
 </div>
 
 {% include figure.liquid loading="eager" path="assets/img/New6.jpg" class="img-fluid rounded z-depth-1 mt-3" %}
