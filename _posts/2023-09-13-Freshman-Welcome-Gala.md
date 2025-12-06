@@ -14,4 +14,4 @@ It was my first time performing on a giant stage, with an audience of over 3000 
     The woods were turned into a sailing ship setting off on a faraway voyage.
 </div>
 
-I am deeply grateful to the friends and teachers who supported me, including Chengzi, Jinwei, Jiawei, and others.
+I am deeply grateful to the friends and teachers who supported me, including Cheng Zi, Jinwei Li, Jiawei Zhang, and others.
