@@ -56,11 +56,11 @@ ninja.data = [{
             window.location.href = "/blog/2025/ICCES-2025/";
           
         },
-      },{id: "post-the-6th-tsinghua-university-magic-gala-lt-em-gt-marvels-and-oddities-lt-em-gt",
+      },{id: "post-the-6th-tsinghua-university-student-magic-gala-lt-em-gt-marvels-and-oddities-lt-em-gt",
         
-          title: "The 6th Tsinghua University Magic Gala: &lt;em&gt; Marvels and Oddities &lt;/em&gt;",
+          title: "The 6th Tsinghua University Student Magic Gala: &lt;em&gt; Marvels and Oddities &lt;/em&gt;",
         
-        description: "My first stage-manager experience",
+        description: "My first stage-manager experience.",
         section: "Posts",
         handler: () => {
           
