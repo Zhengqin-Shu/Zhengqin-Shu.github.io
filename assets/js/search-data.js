@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-aps-dfd-2025",
+        },{id: "post-internship-at-caltech",
+        
+          title: "Internship at Caltech",
+        
+        description: "Looking forward to working under the guidance of Professor H. Jane Bae.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Internship-at-Caltech/";
+          
+        },
+      },{id: "post-aps-dfd-2025",
         
           title: "APS DFD 2025",
         
@@ -32,17 +43,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/APS-DFD-2025/";
-          
-        },
-      },{id: "post-internship-at-caltech",
-        
-          title: "Internship at Caltech",
-        
-        description: "Looking forward to working under the guidance of Professor H. Jane Bae.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/photo-gallery/";
           
         },
       },{id: "post-icces-2025",
