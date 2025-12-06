@@ -144,17 +144,6 @@ ninja.data = [{
             window.location.href = "/blog/2024/geojson-map/";
           
         },
-      },{id: "post-a-post-with-echarts",
-        
-          title: "a post with echarts",
-        
-        description: "this is what included echarts code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/echarts/";
-          
-        },
       },{id: "post-tsinghua-39-s-2024-new-year-gala",
         
           title: "Tsinghua&#39;s 2024 New Year Gala",
