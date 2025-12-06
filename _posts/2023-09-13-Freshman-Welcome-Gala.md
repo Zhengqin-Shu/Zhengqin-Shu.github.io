@@ -7,7 +7,7 @@ tags: Magic
 thumbnail: assets/img/Freshmen.jpg
 ---
 
-It was my first time performing on a giant stage, with an audience of over 3000 freshmen from the Class of 2023. I presented a story about the growth of the trees. Finally, it was in the <strong><em> Spring of Ten Thousand Woods </em></strong>, when the trees finally turned into a sailing ship setting off on a faraway voyage.
+It was my first time performing on a giant stage, with an audience of over 3,000 freshmen from the Class of 2023. I presented a story about the growth of the trees. Finally, it was in the <strong><em> Spring of Ten Thousand Woods </em></strong>, when the trees finally turned into a sailing ship setting off on a faraway voyage.
 
 {% include figure.liquid loading="eager" path="assets/img/Freshmen.jpg" class="img-fluid rounded z-depth-1 mt-3" %}
 <div class="caption">
