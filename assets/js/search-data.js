@@ -38,7 +38,7 @@ ninja.data = [{
         
           title: "Internship at Caltech",
         
-        description: "Looking forward to working under the guidance of Professor H. Jane Bae.",
+        description: "Hi, Pasadena!",
         section: "Posts",
         handler: () => {
           
