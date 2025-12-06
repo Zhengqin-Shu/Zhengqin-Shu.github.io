@@ -166,6 +166,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/chartjs/";
           
         },
+      },{id: "post-tsinghua-39-s-2024-new-year-gala",
+        
+          title: "Tsinghua&#39;s 2024 New Year Gala",
+        
+        description: "My craziest magic show,  Departure , original 20-minute show for an audience of over 2,000.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/formatting-and-links/";
+          
+        },
       },{id: "post-a-post-with-tikzjax",
         
           title: "a post with TikZJax",
@@ -373,17 +384,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2015/images/";
-          
-        },
-      },{id: "post-a-post-with-formatting-and-links",
-        
-          title: "a post with formatting and links",
-        
-        description: "march &amp; april, looking forward to summer",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/formatting-and-links/";
           
         },
       },{id: "books-the-godfather",
