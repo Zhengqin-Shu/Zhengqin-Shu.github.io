@@ -18,14 +18,14 @@ I was honored to perform my original 20-minute magic show, <strong><em> Departur
     The cards turned into plane tickets.
 </div>
 
-{% include figure.liquid loading="eager" path="assets/img/New4.jpg" class="img-fluid rounded z-depth-1 mt-3" %}
+{% include figure.liquid loading="eager" path="assets/img/New3.jpg" class="img-fluid rounded z-depth-1 mt-3" %}
 <div class="caption">
     On the giant boarding pass were written the volunteer's name and chosen destination.
 </div>
 
 {% include figure.liquid loading="eager" path="assets/img/New6.jpg" class="img-fluid rounded z-depth-1 mt-3" %}
 <div class="caption">
-    After the show, the giant boarding pass was left at the exit, where the audience eagerly signed it as a keepsake, symbolizing <strong><em> Departure </em></strong> in the New Year.
+    After the show, the boarding pass was left at the exit, where the audience eagerly signed it as a keepsake, symbolizing <strong><em> Departure </em></strong> in the New Year.
 </div>
 
 I am deeply grateful to all the friends and teachers who supported me throughout the preparation and performance, including Chengzi, Cancao, Kunda, Xiu, Hongyu, Junhao, Jiawei, Sihan, Yuqian, Xiaohan, and others.
