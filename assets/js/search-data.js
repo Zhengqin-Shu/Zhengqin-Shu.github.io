@@ -31,7 +31,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/chartjs/";
+            window.location.href = "/blog/2025/APS-DFD-2025/";
           
         },
       },{id: "post-a-post-with-plotly-js",
