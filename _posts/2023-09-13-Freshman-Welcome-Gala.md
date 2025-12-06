@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tsinghua's 2024 New Year Gala
+title: Tsinghua's 2023 Freshman Welcome Gala
 date: 2023-09-13 
 description: My first large-scale stage show, <strong><em> Spring of Ten Thousand Woods </em></strong>, presented to all the Class of 2023 freshmen at Tsinghua.
 tags: Magic
