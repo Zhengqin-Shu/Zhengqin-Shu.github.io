@@ -78,11 +78,11 @@ ninja.data = [{
             window.location.href = "/blog/2023/New-Year-Gala/";
           
         },
-      },{id: "post-the-5th-tsinghua-university-magic-gala-lt-em-gt-into-the-wondrous-way-lt-em-gt",
+      },{id: "post-the-5th-tsinghua-university-student-magic-gala-lt-em-gt-into-the-wondrous-way-lt-em-gt",
         
-          title: "The 5th Tsinghua University Magic Gala: &lt;em&gt; Into the Wondrous Way &lt;/em&gt;",
+          title: "The 5th Tsinghua University Student Magic Gala: &lt;em&gt; Into the Wondrous Way &lt;/em&gt;...",
         
-        description: "My first director experience",
+        description: "My first director experience.",
         section: "Posts",
         handler: () => {
           
