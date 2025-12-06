@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-aps-dfd-2025",
+        },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/2023-12-10-5-Magic-Gala/";
+          
+        },
+      },{id: "post-aps-dfd-2025",
         
           title: "APS DFD 2025",
         
@@ -164,17 +175,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2023/New-Year-Gala/";
-          
-        },
-      },{id: "post-the-5th-tsinghua-university-magic-gala-lt-em-gt-into-the-wondrous-way-lt-em-gt",
-        
-          title: "The 5th Tsinghua University Magic Gala &lt;em&gt; Into the Wondrous Way &lt;/em&gt;",
-        
-        description: "My first director experience",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/5-Magic-Gala/";
           
         },
       },{id: "post-tsinghua-39-s-2023-freshman-welcome-gala",
