@@ -2,7 +2,7 @@
 layout: post
 title: Internship at Caltech
 date: 2025-07-14
-description: Looking forward to working under the guidance of Professor H. Jane Bae.
+description: Hi, Pasadena!
 tags: Academia 
 thumbnail: assets/img/Caltech.jpg
 ---
