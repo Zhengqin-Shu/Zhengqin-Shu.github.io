@@ -7,7 +7,7 @@ tags: Magic
 thumbnail: assets/img/New2.jpg
 ---
 
-I was honored to perform my original 15-minute magic show, <strong><em> Departure </em></strong>, at Tsinghua’s 2024 New Year Gala, in front of an audience of over 2,000. In the show, I invited a random volunteer on stage and asked them to name their ideal travel destination. On the giant boarding pass at the center of the stage, their name and chosen destination were already printed! Click [here](https://www.bilibili.com/video/BV1PZ421U7b8/?spm_id_from=333.1387.homepage.video_card.click) for the full performance video.
+I was honored to perform my original 15-minute magic show, <strong><em> Departure </em></strong>, at Tsinghua’s 2024 New Year Gala, in front of an audience of over 2,000. In the show, I invited a random volunteer on stage and asked them to name their ideal travel destination. On the giant boarding pass at the center of the stage, their name and chosen destination were already printed! Click [here](https://www.bilibili.com/video/BV1PZ421U7b8/?spm_id_from=333.1387.homepage.video_card.click) for the full recording.
 
 {% include figure.liquid loading="eager" path="assets/img/New1.jpg" class="img-fluid rounded z-depth-1 mt-3" %}
 <div class="caption">
