@@ -56,6 +56,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/ICCES-2025/";
           
         },
+      },{id: "post-the-6th-tsinghua-university-magic-gala-lt-em-gt-marvels-and-oddities-lt-em-gt",
+        
+          title: "The 6th Tsinghua University Magic Gala: &lt;em&gt; Marvels and Oddities &lt;/em&gt;",
+        
+        description: "My first stage-manager experience",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/6-Magic-Gala/";
+          
+        },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
           title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -65,28 +76,6 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-          
-        },
-      },{id: "post-a-post-with-typograms",
-        
-          title: "a post with typograms",
-        
-        description: "this is what included typograms code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/typograms/";
-          
-        },
-      },{id: "post-a-post-that-can-be-cited",
-        
-          title: "a post that can be cited",
-        
-        description: "this is what a post that can be cited looks like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/post-citation/";
           
         },
       },{id: "post-tsinghua-39-s-2024-new-year-gala",
