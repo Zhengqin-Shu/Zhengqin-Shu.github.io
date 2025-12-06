@@ -100,6 +100,17 @@ ninja.data = [{
             window.location.href = "/blog/2023/5-Magic-Gala/";
           
         },
+      },{id: "post-tsinghua-39-s-2023-freshman-welcome-gala",
+        
+          title: "Tsinghua&#39;s 2023 Freshman Welcome Gala",
+        
+        description: "My first large-scale stage show,  Spring of Ten Thousand Woods , presented to all the Class of 2023 freshmen at Tsinghua.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/Freshman-Welcome-Gala/";
+          
+        },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
         
           title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
