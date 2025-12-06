@@ -177,9 +177,9 @@ ninja.data = [{
             window.location.href = "/blog/2023/New-Year-Gala/";
           
         },
-      },{id: "post-tsinghua-39-s-2024-new-year-gala",
+      },{id: "post-tsinghua-39-s-2023-freshman-welcome-gala",
         
-          title: "Tsinghua&#39;s 2024 New Year Gala",
+          title: "Tsinghua&#39;s 2023 Freshman Welcome Gala",
         
         description: "My first large-scale stage show,  Spring of Ten Thousand Woods , presented to all the Class of 2023 freshmen at Tsinghua.",
         section: "Posts",
