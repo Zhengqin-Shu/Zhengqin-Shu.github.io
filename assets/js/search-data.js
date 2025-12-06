@@ -34,6 +34,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/APS-DFD-2025/";
           
         },
+      },{id: "post-internship-at-caltech",
+        
+          title: "Internship at Caltech",
+        
+        description: "Looking forward to working under the guidance of Professor H. Jane Bae.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/photo-gallery/";
+          
+        },
       },{id: "post-icces-2025",
         
           title: "ICCES 2025",
@@ -43,17 +54,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/ICCES-2025/";
-          
-        },
-      },{id: "post-a-post-with-image-galleries",
-        
-          title: "a post with image galleries",
-        
-        description: "this is what included image galleries could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/photo-gallery/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
