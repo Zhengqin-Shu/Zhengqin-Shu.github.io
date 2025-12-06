@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-aps-dfd-2025",
+        
+          title: "APS DFD 2025",
+        
+        description: "My first presentation at an academic conference.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/chartjs/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -153,17 +164,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/echarts/";
-          
-        },
-      },{id: "post-a-post-with-chart-js",
-        
-          title: "a post with chart.js",
-        
-        description: "this is what included chart.js code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/chartjs/";
           
         },
       },{id: "post-tsinghua-39-s-2024-new-year-gala",
