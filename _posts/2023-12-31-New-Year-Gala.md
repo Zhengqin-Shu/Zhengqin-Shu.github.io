@@ -2,7 +2,7 @@
 layout: post
 title: Tsinghua's 2024 New Year Gala
 date: 2023-12-31 
-description: My craziest magic show, <strong><em> Departure </em></strong>, an original 20-minute show for an audience of over 2,000.
+description: My craziest magic show, <strong><em> Departure </em></strong>, an original 15-minute show for an audience of over 2,000.
 tags: Magic
 thumbnail: assets/img/New2.jpg
 ---
